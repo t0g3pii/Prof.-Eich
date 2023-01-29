@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "name": "prof.-eich",
+  "version": "0.0.1",
+  "description": "Prof. Eich Discord Bot für den t0g3pii Server",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t0g3pii/Prof.-Eich.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discordbot"
+  ],
+  "author": "t0g3pii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t0g3pii/Prof.-Eich/issues"
+  },
+  "homepage": "https://github.com/t0g3pii/Prof.-Eich#readme"
+}
